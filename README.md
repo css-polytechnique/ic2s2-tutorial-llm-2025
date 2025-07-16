@@ -1,6 +1,6 @@
-# LLM 4 the people
+# LLM for the people
 
-Visit the [CSS@IPP website](https://www.css.cnrs.fr/)
+Visit the [decicated page on CSS@IPP website](https://www.css.cnrs.fr/llm-power-to-the-people/)
 
 ## Data
 
